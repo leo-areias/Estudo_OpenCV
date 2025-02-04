@@ -27,6 +27,9 @@ Este repositório contém meus estudos sobre **OpenCV**, baseados no curso do [f
    ```
 3. Execute os scripts Python em um ambiente de sua escolha.
 
+## Dataset para Modelo de Detecção de Personagens
+* [Dataset Simpsons](https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset/data)
+
 ## 💡 Próximos Passos
 - Testar integração de OpenCV com Deep Learning (TensorFlow/PyTorch).
 - Aplicar modelos pré-treinados para detecção de objetos e reconhecimento facial.
