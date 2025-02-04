@@ -14,6 +14,7 @@ from tensorflow.keras.optimizers.legacy import SGD
 # DATASET
 # https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset/data
 #Todas imagens tem que ser do mesmo tamanho para coloca-las no modelo
+
 IMG_SIZE = (80,80)
 channels = 1
 char_path = "./archive/simpsons_dataset"
