@@ -3,11 +3,11 @@
 Este repositório contém meus estudos sobre **OpenCV**, baseados no curso do [freeCodeCamp no YouTube](https://www.youtube.com/watch?v=oXlwWbU8l2o). O objetivo deste estudo é adquirir conhecimento em **processamento de imagens** para aplicação em problemas futuros relacionados a **Deep Learning**.
 
 ## **Tabela de Conteúdos**
-1. [Objetivo](#Objetivo)
-2. [Tecnologias e Ferramentas](#🛠)
-3. [Como Executar os Códigos](#🚀)
-4. [Dataset para Modelo de Detecção de Personagens](#📊)
-5. [Próximos Passos](#💡)
+1. [Objetivo](#objetivo)
+2. [Tecnologias e Ferramentas](#tecnologias)
+3. [Como Executar os Códigos](#como)
+4. [Dataset para Modelo de Detecção de Personagens](#dataset)
+5. [Próximos Passos](#proximos)
 
 ## 🏆 Objetivo
 
