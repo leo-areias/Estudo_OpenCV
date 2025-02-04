@@ -7,9 +7,9 @@ Este repositório contém meus estudos sobre **OpenCV**, baseados no curso do [f
 ## **Tabela de Conteúdos**
 1. [Objetivo](#objetivo)
 2. [Tecnologias e Ferramentas](#tecnologias)
-3. [Como Executar os Códigos](#como)
+3. [Como Executar os Códigos](#Executar)
 4. [Dataset para Modelo de Detecção de Personagens](#dataset)
-5. [Próximos Passos](#proximos)
+5. [Próximos Passos](#proximo)
 
 
 
@@ -30,7 +30,7 @@ Este repositório contém meus estudos sobre **OpenCV**, baseados no curso do [f
 
 
 
-## **Executar**
+## **Como Executar**
 
 1. Clone este repositório:
    ```bash
